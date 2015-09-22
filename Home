@@ -23,7 +23,7 @@ text-align:center;
     margin: 0 auto;
     position: relative;
 }
-
+<!-- Commented -->
 <!-- .slides * {
     user-select: none;
     -ms-user-select: none;
@@ -55,6 +55,7 @@ text-align:center;
     height: 100%;
 }
 
+<!-- Commented -->
 <!--.nav label {
     width: 200px;
     height: 100%;
